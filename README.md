@@ -1,8 +1,6 @@
 
 # RunwayXpert
 
-<img src="https://www.runwayxpert.com/icon.png" alt="RunwayXpert Logo" style="width:100px; height:100px;">
-
 <img src="https://github.com/RunwayXpert/.github/blob/main/images/icon.png" alt="RunwayXpert Logo" width="100" height="100"> 
 
 **RunwayXpert** is a cutting-edge web application tailored to enhance airport runway management and operations. By integrating advanced technologies with a user-friendly interface, RunwayXpert enables airport authorities, ground handlers, and aviation professionals to efficiently oversee runway activities, ensuring safety, punctuality, and optimal resource utilization.
