@@ -91,5 +91,6 @@ Experience the capabilities of RunwayXpert through our live demo.
 
 ## 📸 Screenshots
 
-![Dashboard](https://github.com/RunwayXpert/.github/blob/main/images/dashboard-dark.png)](https://testapp.runwayxpert.com)
-*Real-Time Runway Monitoring Dashboard*
+[![Dashboard](https://github.com/RunwayXpert/.github/blob/main/images/dashboard-dark.png)](https://testapp.runwayxpert.com)
+
+[View Live Demo](https://testapp.runwayxpert.com)
