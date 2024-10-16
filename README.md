@@ -1,7 +1,7 @@
 
 # RunwayXpert
 
-<img src="https://www.runwayxpert.com/icon.png" alt="RunwayXpert Logo" width="100" height="100">
+![RunwayXpert Logo](https://www.runwayxpert.com/icon.png)
 
 <img src="https://github.com/RunwayXpert/.github/blob/main/images/icon.png" alt="RunwayXpert Logo" width="100" height="100"> 
 
