@@ -1,7 +1,7 @@
 
 # RunwayXpert
 
-![RunwayXpert Logo](https://github.com/RunwayXpert/.github/images/icon.png)
+![RunwayXpert Logo](https://github.com/RunwayXpert/.github/blob/main/images/icon.png)
 
 **RunwayXpert** is a cutting-edge web application tailored to enhance airport runway management and operations. By integrating advanced technologies with a user-friendly interface, RunwayXpert enables airport authorities, ground handlers, and aviation professionals to efficiently oversee runway activities, ensuring safety, punctuality, and optimal resource utilization.
 
