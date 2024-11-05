@@ -51,9 +51,9 @@
 
 Experience the capabilities of RunwayXpert through our live demo.
 
-[![RunwayXpert Demo](https://github.com/RunwayXpert/.github/blob/main/images/dashboard-dark.png)](https://testapp.runwayxpert.com)
+[![RunwayXpert Demo](https://github.com/RunwayXpert/.github/blob/main/images/dashboard-dark.png)](https://demo.runwayxpert.com)
 
-[View Live Demo](https://testapp.runwayxpert.com)
+[View Live Demo](https://demo.runwayxpert.com)
 
 ## 🛠 Technologies
 
@@ -91,6 +91,6 @@ Experience the capabilities of RunwayXpert through our live demo.
 
 ## 📸 Screenshots
 
-[![Dashboard](https://github.com/RunwayXpert/.github/blob/main/images/dashboard-dark.png)](https://testapp.runwayxpert.com)
+[![Dashboard](https://github.com/RunwayXpert/.github/blob/main/images/dashboard-dark.png)](https://demo.runwayxpert.com)
 
-[View Live Demo](https://testapp.runwayxpert.com)
+[View Live Demo](https://demo.runwayxpert.com)
